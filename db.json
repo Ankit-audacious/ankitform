@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "name": "titu",
+      "email": "titu@gmail.com",
+      "phone": "8866440099",
+      "country": "America",
+      "gender": "Male",
+      "hobbies": "Reading",
+      "id": 1
+    },
+    {
+      "name": "mosam",
+      "email": "mosam@gmail.com",
+      "phone": "8844330088",
+      "country": "China",
+      "gender": "Male",
+      "hobbies": "cooking",
+      "id": 2
+    },
+    {
+      "name": "tanu",
+      "email": "tanu@gmail.com",
+      "phone": "9865876432",
+      "country": "",
+      "gender": "Female",
+      "hobbies": "cooking",
+      "id": 3
+    }
+  ]
+}
